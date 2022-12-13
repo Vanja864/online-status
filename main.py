@@ -1,3 +1,4 @@
+import os
 from websocket_server import WebsocketServer
 
 def new_client(client, server):
